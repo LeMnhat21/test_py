@@ -1,1 +1,2 @@
-print("Hello")
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
